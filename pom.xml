@@ -37,7 +37,9 @@
 						<password>Mulesoft@4321</password>
 						<applicationName>mulesoft-cicd-sample</applicationName>
 						<environment>Sandbox</environment>
+						<businessGroup>Sandbox</businessGroup>
 						<workerType>MICRO</workerType>
+						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
